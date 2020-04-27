@@ -21,7 +21,6 @@ const text = StyleSheet.create({
         color: 'green',
         fontWeight: 'bold',
         fontSize: 20,
-        fontFamily: 'sans-serif',
         textAlign: "left",
     }
 })

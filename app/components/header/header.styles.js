@@ -15,7 +15,6 @@ const styles = StyleSheet.create({
         color: 'white',
         fontWeight: 'bold',
         fontSize: 30,
-        fontFamily: 'sans-serif',
         zIndex: 3,
         justifyContent: "center",
         alignItems: "center",
@@ -30,13 +29,11 @@ const text = StyleSheet.create({
     primary: {
         color: 'white',
         fontSize: 20,
-        fontFamily: 'sans-serif'
     },
     logo: {
         color: 'white',
         fontWeight: 'bold',
         fontSize: 30,
-        fontFamily: 'sans-serif',
     }
 })
 
