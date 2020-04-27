@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
         justifyContent: "space-between",
         backgroundColor: 'rgb(72,179,0)',
         padding: 10,
+        paddingTop: 50,
         flex: 1,
     }, 
     logo: {
@@ -18,7 +19,7 @@ const styles = StyleSheet.create({
         zIndex: 3,
         justifyContent: "center",
         alignItems: "center",
-        top: 0,
+        top: 30,
         left: 0, 
         right: 0,
         bottom: 0

@@ -10,7 +10,8 @@ const styles = StyleSheet.create({
         flex: 1,
         borderWidth: 1,
         borderColor: "lightgray",
-        padding: 5,
+        padding: 10,
+        paddingBottom: 30
     },
     item: {
         flex: 1,
