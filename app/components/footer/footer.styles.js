@@ -2,14 +2,14 @@ import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
     container: {
-        display: "flex",
+        display: 'flex',
         flexDirection: 'row',
-        justifyContent: "space-between",
+        justifyContent: 'space-between',
         backgroundColor: 'white',
         alignItems: 'flex-end',
         flex: 1,
         borderWidth: 1,
-        borderColor: "lightgray",
+        borderColor: 'lightgray',
         padding: 10,
         paddingBottom: 30
     },
@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     icons: {
         width: 20,
         height: 20,
-        textAlign: "center",
+        textAlign: 'center',
     }
 })
 
@@ -28,7 +28,7 @@ const text = StyleSheet.create({
         color: 'green',
         fontWeight: 'bold',
         fontSize: 20,
-        textAlign: "center",
+        textAlign: 'center',
     }
 })
 

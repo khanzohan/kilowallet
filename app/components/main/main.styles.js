@@ -7,12 +7,12 @@ const styles = StyleSheet.create({
     },
     item: {
         borderWidth: 1,
-        borderColor: "lightgray"
+        borderColor: 'lightgray'
     },
     icons: {
         width: 20,
         height: 20,
-        textAlign: "center",
+        textAlign: 'center',
     }
 })
 
@@ -21,7 +21,7 @@ const text = StyleSheet.create({
         color: 'green',
         fontWeight: 'bold',
         fontSize: 20,
-        textAlign: "left",
+        textAlign: 'left',
     }
 })
 

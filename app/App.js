@@ -1,15 +1,17 @@
 import React from 'react';
-import {Text, View} from 'react-native';
+import { View } from 'react-native';
 import Header from './components/header/header.component';
 import Main from './components/main/main.component';
 import Footer from './components/footer/footer.component';
-import { styles, text } from './App.styles';
+import { styles } from './App.styles';
+import Login from './pages/login/login.component'
 
 const App = () => (
     <View style={styles.container}>
-        <Header />
+        {/* <Header />
         <Main />
-        <Footer />
+        <Footer /> */}
+        <Login />
     </View>
 )
 
